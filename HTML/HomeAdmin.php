@@ -98,7 +98,7 @@
                 <div class="box-table B">
                     <div class="body">
 
-                        <h3>My Task</h3>
+                        <h3>Incoming Document</h3>
                         <div class="abc">
                             <h1>69</h1>
                             <!-- <span class="material-symbols-outlined">
@@ -120,7 +120,7 @@
                 <div class="box-table Y">
                     <div class="body">
 
-                        <h3>Contributed Document</h3>
+                        <h3>Pending Document</h3>
                         <div class="abc">
                             <h1>69</h1>
                             <!-- <span class="material-symbols-outlined">
@@ -181,15 +181,7 @@
 
                 </div>
 
-
-
             </div>
-
-
-
-
-
-
 
         </div>
     </div>
